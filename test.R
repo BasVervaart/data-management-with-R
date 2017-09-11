@@ -1,1 +1,1 @@
-test
+ok it works
